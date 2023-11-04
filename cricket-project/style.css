@@ -1,0 +1,16 @@
+body{
+ 
+  text-align: center;
+  background-image: url('bat.png'),url('ball.png'),url('stump.png');
+  background-repeat: no-repeat;
+  background-position: 10%;
+}
+img{
+  
+  border: 2px solid rgb(39, 39, 42);
+}
+h1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: blueviolet;
+  border-radius: 10px;
+}
